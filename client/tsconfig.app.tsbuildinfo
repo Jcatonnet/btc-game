@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/ongoingguess.tsx","./src/components/rulescontainer.tsx","./src/components/scorecontainer.tsx","./src/hooks/usebtcprice.tsx","./src/hooks/useguessmanager.tsx","./src/pages/homepage.tsx","./src/services/guessservice.ts"],"version":"5.6.2"}

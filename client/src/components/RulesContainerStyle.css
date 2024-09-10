@@ -1,0 +1,11 @@
+.rules-container {
+    background-color: rgb(223, 223, 247);
+    border-radius: 10px;
+    color: rgb(39, 39, 137);
+    border: solid 1px rgb(153, 153, 201);
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 40px;
+
+}
