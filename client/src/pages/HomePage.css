@@ -1,0 +1,9 @@
+.button-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 50%
+}

@@ -1,0 +1,10 @@
+.score-container {
+    background-color: rgb(160, 160, 246);
+    border-radius: 10px;
+    color: rgb(23, 23, 102);
+    border: solid 1px rgb(153, 153, 201);
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 40px;
+}
